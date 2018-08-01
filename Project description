@@ -1,0 +1,36 @@
+-----------------------------------------------------------------------------------
+
+Project Description (5 marks)
+The description should:
+1. Contain enough details so that anyone with reasonable technical capability can unambiguously visualise
+the proposed product.
+2. Identify the type of project/stream this is: for example, a 2D Platformer, a Visual Novel or something else.
+3. Contain a detailed description of the functionality of the product (that is, what the product will do), and
+enough information to give the assessor a “good feel” of the expected product experience.
+
+-----------------------------------------------------------------------------------
+
+The proposed project is a general “University Life” mobile application that any university student across Australia will be able to download onto their mobile devices to help them organise their university life keeping them up-to-date with their studies, assignments, timetabling, as well as university club and social events. 
+
+The application aims to provide students with a centralised way stay organised and up-to-date at university by providing them with an efficient way to not only keep track of all their university needs, but also give students a way to quick and convenient way to arrange and rearrange their life on the fly in a completely mobile application. The features this application will provide include:
+
+An assessment feature that allows students to save and view all current and upcoming assessments in one place on the mobile application(Tests, exams, assignment work etc.).
+ - Being able to see and keep track of all your assessment start dates and due dates in one spot without having to go between web pages or links will make it more convenient for students to stay on top of their studies, tests and assignments
+ - Students will be able to check off tasks as they are done, as well as set a priority level on tasks.
+ 
+A campus map feature will keep students from getting lost on campus
+ - The institution can be set by the student so the application can provide instant access to the most relevant campus map at any time
+
+A communication feature will keep students connected to their peers
+ - This feature is to make it easier for students to communicate with each other, especially for group projects that require group members to communicate on a regular basis.
+
+A timetabling feature that makes it easy to arrange and rearrange not only your class timetable, but also group assignment meetings, club events etc.
+ - Students will be able to enter in regular group meetups into their class timetable
+
+A calendar feature so you are not having to check several different schedulers or calendars to make sure you are not double booking events
+ - Students enter information/tasks/events directly into the calendar as normal. I.e. Birthdays, holidays etc. as well as classes, exam dates, assignment due dates etc.
+ - Information/tasks entered into the “Assessments” and “Timetable” features are automatically imported into the calendar
+ - The calendar can be viewed in days, weeks and months
+
+A fully customizable notification system students can set up to be reminded of an upcoming assessment, assignment due date or group meeting.
+ - Students can set up notifications to remind them of due dates, set up much like an alarm. Handy for when there are a lot of assessments due around the same time, or even just to help keep students who live very busy lives to stay on track.
