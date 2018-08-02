@@ -1,0 +1,25 @@
+1.	Communication
+Description: The communication function is design for student to communicate with their classmate and group member, in the first step we maybe connect it with email which it can edit in this app.
+Validation test: This function should be email so the important part of the test will be if student can edit, send and receive the correct email, or it hasn’t been successfully implement.
+2.	Calendar
+Description: Calendar will be shown in month and will be able show all added assessments in this semester with their due date, student can see clearly all assessments.
+Validation test: When student click “Calendar” they should see the whole month assessment in calendar but if it not shown in month or there is not all assessment that mean this function hasn’t been successfully implement.
+3.	Assessments
+Description: Assessments function is use to let students to add their assessments title, details and due date. These assessments will be list in “assessments “page and also shown in calendar, also can set alarm to be a notification.
+Validation test: Student should be able to add assessments and edit its detail, and when it wrongs it will be able to change detail, so the test should be if student can add and change it and is it shown in the “assessment” page. Also the time should be within this semester and the time should be from 0:00-24:00.
+4.	Timetable
+Description: Timetable will be shown in week. Students can add their classes and details (room, floor…) in this part. If there is any change student can edit it in this app.
+Validation test: The test will focus on if student can edit their timetable and if it will be shown in week. If student can’t edit their timetable by multiple time that mean this function hasn’t successfully implement. Also the time should be within this semester and the time should be from 0:00-24:00.
+5.	Maps
+Description: Map function will depend on different institution. Students can select when they start to use this function then map will show the nearby of this institution, like library, shop, café…
+Validation test: Map will depend on different institution so if student select RMIT but it shows another institution’s nearby than this function is not successfully implement.
+6.	News
+Description: News function will depend on different institution. Students can select different institution (RMIT, Melbourne Uni…) to view their news.
+Validation test: This test will focus on if the app will show the correct institution’s news like if student choose Melbourne Uni then it should won’t show other news.
+7.	Upcoming activities
+Description: Upcoming activities function will depend on different institution. Students can select different institution (RMIT, Melbourne Uni…) to view their activities.
+Validation test: This test will focus on if the app will show the correct institution’s activities like if student choose Melbourne Uni then it should won’t show other news.
+8.	Notification
+Description: Notification is use to notice student if there is any assessment that will due and new email from classmate…Because of the assessment notification, there will be a function that student can set alarm to notice the due time.
+Validation test: This test will be if student can receive their notification and alarm on time, Also the time should be within this semester and the time should be from 0:00-24:00.
+
