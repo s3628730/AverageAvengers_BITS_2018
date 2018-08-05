@@ -1,0 +1,8 @@
+Extended Features: (3 marks). 
+List at least 3. For each feature you list, explain
+how you will validate that the feature has been successfully implemented (Validation Testing).
+
+Communication - Chat function: Chat functions need to be personalised to the user so that people relevant to the users appear and pop up to be available for chatting. This feature is intended to be a live chat feature as opposed to an emailing feature.
+Local meetup places(map): Ensure that when the users turn on their GPS function, all relevant meetup places will be nearby the person or the fixed location that has been set by the user. This feature is designed to find cafe's and other such local meetup places around the university campus
+Digital student ID card functionality: Each individual users when registering for a Digital student ID will have to input their specific barcode to ensure a unique digitalized ID is created. Hence when accessing certain rooms, events and even borrowing, printing documents and books all relevant information and expenditure are directed to the specific user. 
+Personalised club pages: All the clubs and social events that has been registered by the user need to appear on a specific tab or page so that the users is able to be updated with the relevant information and news from their club and event. 
