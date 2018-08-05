@@ -1,25 +1,26 @@
 1.	Communication
-Description: The communication function is design for student to communicate with their classmate and group member, in the first step we maybe connect it with email which it can edit in this app.
-Validation test: This function should be email so the important part of the test will be if student can edit, send and receive the correct email, or it hasn’t been successfully implement.
+Description: The communication function is designed to make it easier for students to communicate with their classmates, group members and other peers. This feature is designed so students can send messages to other students on the application iondividually, or to send messages to a group(i.e. an assignment group, club group etc.) We are thinking to first implement the communication feature as an emailing system to start off with, 
+and if time allows we would like to create a chat feature so students can chat live with their peers.
+Validation test: This function should allow students to send and receive messages/emails, so a validation test would be making sure a message sent to a group of people sends with all the correct content, with the correct formatting, and everyone it was addressed to receives it. Other validation could be the time taken to send or receive a message.
 2.	Calendar
-Description: Calendar will be shown in month and will be able show all added assessments in this semester with their due date, student can see clearly all assessments.
-Validation test: When student click “Calendar” they should see the whole month assessment in calendar but if it not shown in month or there is not all assessment that mean this function hasn’t been successfully implement.
+Description: The calendar feature will support "daily", "weekly" and "monthly" viewing, the calendar will also show an overview of added assessments, exams, group meeting etc. for the semester with their due dates, making it convenient for students to see all important dates for their studies. Important dates can be input directly into the calendar by the student, but also assessments input into the "assessments" feature by the student will automatically be input into the calendar feature. 
+Validation test: Important dates being visible in the calendar overview, and confirming important dates added to the "assessment" feature are accurately imported into the calendar feature will validate whether the calendar has been succesfully implemented.
 3.	Assessments
-Description: Assessments function is use to let students to add their assessments title, details and due date. These assessments will be list in “assessments “page and also shown in calendar, also can set alarm to be a notification.
-Validation test: Student should be able to add assessments and edit its detail, and when it wrongs it will be able to change detail, so the test should be if student can add and change it and is it shown in the “assessment” page. Also the time should be within this semester and the time should be from 0:00-24:00.
+Description: The assessments function is a convenient way for students to add and store all their assessment titles, assessment details, due dates, tasks and assignment progress all in one space to make it easy to keep track of all assessments throughout the semester. These assessment information input into this feature by the student will be automatically imported in and shown in calendar feauture too. Students can also use the assessment feature set up and customize notifications or reminders for assessment dates.
+Validation test: Students should be able to add, edit, and update assessment details whenever they wish to or need to, some validation tests could be: 1. Information input by the student can be found and edited easily 2. Making sure notifications work properly. 3. Making sure only valid information can be inpput(assessment due times must be between 0:00-23:59 etc.)
 4.	Timetable
-Description: Timetable will be shown in week. Students can add their classes and details (room, floor…) in this part. If there is any change student can edit it in this app.
-Validation test: The test will focus on if student can edit their timetable and if it will be shown in week. If student can’t edit their timetable by multiple time that mean this function hasn’t successfully implement. Also the time should be within this semester and the time should be from 0:00-24:00.
+Description: The timetable feature will generally hold information about students' weekly classes(with the building, floor, and room) and meetups(group assignments etc.). Students will be required to enter the information required, as well as the number of weeks the class or meetup will continue.
+Validation test: As this feature will be designed to hold the information of weekly classes and meetups, making sure the timetable of each class and meetup is duplicated weekly for the specified number of weeks can be used to validate the implementation of this feature.
 5.	Maps
-Description: Map function will depend on different institution. Students can select when they start to use this function then map will show the nearby of this institution, like library, shop, café…
-Validation test: Map will depend on different institution so if student select RMIT but it shows another institution’s nearby than this function is not successfully implement.
+Description: The map feature is designed to present the student with a map of the university campus whenever they need it. On first use of this feature the student will be prompted to specify the campus they are currently studying at.(Ideas to allow multiple campuses, and also highlight the buildings students have classes in)
+Validation test: Once the user has specified an instution the map feature should present the student with the approppriate campus map every time.
 6.	News
-Description: News function will depend on different institution. Students can select different institution (RMIT, Melbourne Uni…) to view their news.
-Validation test: This test will focus on if the app will show the correct institution’s news like if student choose Melbourne Uni then it should won’t show other news.
+Description: (Future development idea)The news feature will depend on the institution. Students can select a sepcific institution (RMIT, Melbourne Uni…) to view view news of specified institution.
+Validation test: This test will focus on if the app will show the correct institution’s news, i.e. If a student specifies Melbourne University as their current institute of study they should receive news from Melbourne University.
 7.	Upcoming activities
-Description: Upcoming activities function will depend on different institution. Students can select different institution (RMIT, Melbourne Uni…) to view their activities.
-Validation test: This test will focus on if the app will show the correct institution’s activities like if student choose Melbourne Uni then it should won’t show other news.
+Description: (Future development idea)Upcoming activities function will depend on the student specified institution. Students can select institution (RMIT, Melbourne Uni…) to view their activities.
+Validation test: This test will focus on if the app will shows the correct institution’s activities, i.e. If a student specifies Melbourne University as their current institute of study they should receive activities from Melbourne University.
 8.	Notification
-Description: Notification is use to notice student if there is any assessment that will due and new email from classmate…Because of the assessment notification, there will be a function that student can set alarm to notice the due time.
-Validation test: This test will be if student can receive their notification and alarm on time, Also the time should be within this semester and the time should be from 0:00-24:00.
+Description: The notifications feature is used to notify students of assessment/task due dates, as well as friendly reminders that there are currently open assessments. Students will be able to set up as many notifications as they feel necessary to stay on track with their assessments.
+Validation test: Some validation tests could be: 1. Information input by the student can be found and edited easily 2. Making sure notifications work properly, and for when they are set with no delays. 3. Making sure only valid information can be inpput(assessment due times must be between 0:00-23:59 etc.)
 
